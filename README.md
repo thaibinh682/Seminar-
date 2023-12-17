@@ -1,5 +1,5 @@
 # Seminar- Deep-learning based Recommender Systems 
-Seminar Khoa học dữ liệu kì 1 năm 4 
+Đây là seminar Khoa học dữ liệu kì 1 năm 4 
 ## Tác giả 
 Họ và tên : Hoàng Hải Đăng MSSV: 20280011  
 
